@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -44,3 +45,6 @@ public class AppCreate {
         }
     }
 }
+=======
+
+>>>>>>> 75a788365e59c85f42c5a66c63f38c0166439b30
