@@ -27,7 +27,7 @@ public class AppCreate {
 
             // Get user input
             System.out.print("Enter name: ");
-            String name s= scanner.nextLine();
+            String name = scanner.nextLine();
             System.out.print("Enter value: ");
             String value = scanner.nextLine();
 
